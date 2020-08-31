@@ -1,0 +1,1 @@
+print(f'A={3.14159 * pow(float(input()), 2):.4f}')
